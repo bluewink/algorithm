@@ -5,3 +5,8 @@
 - bronze 30
 - silver 103
 - gold 68
+
+**2021.03.05**
+- :3rd_place_medal: 31
+- :2nd_place_medal: 112
+- :1st_place_medal: 85
