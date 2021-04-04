@@ -20,6 +20,7 @@ int play(int opt) {
 				if (str[i - 1] == str[i]) {
 					continue;
 				}
+				//str[i-1] != str[i]
 				cnt++;
 			}
 		}
@@ -38,6 +39,7 @@ int play(int opt) {
 				if (str[i - 1] == str[i]) {
 					continue;
 				}
+				//str[i-1] != str[i]
 				cnt++;
 			}
 		}
